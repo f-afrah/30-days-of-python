@@ -1,7 +1,7 @@
 
 # Day 1 – Python Basics
 
-## What I learned
+## What I learnt
 - Printing text and numbers in different ways
 - Line gaps using print() and \n
 - String formatting with f-strings
